@@ -1,10 +1,10 @@
-# p5 Template
+# p5.js Template
 
-A boilerplate prepared by using [p5-manager](https://www.npmjs.com/package/p5-manager), EsLint and Prettier to make it easy to use p5 locally.
+A boilerplate prepared by using [p5-manager](https://www.npmjs.com/package/p5-manager), EsLint and Prettier to make it easy to use [p5.js](https://p5js.org/) locally.
 
 ## Technologies Used
 
-- [p5](https://p5js.org/)
+- [p5.js](https://p5js.org/)
 - Live Server Extension
 
 ## Run Project Locally
